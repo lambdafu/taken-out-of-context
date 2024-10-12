@@ -1,0 +1,47 @@
+Date: Mon, 30 Sep 2024 00:03:13 +0000 
+From: Bob <bob@example.com>
+To: Alice <alice@example.com>
+Subject: Johnny is fired!
+MIME-Version: 1.0
+Content-Type: multipart/encrypted;
+ protocol="application/pgp-encrypted";
+ boundary="XXX"
+
+This is an OpenPGP/MIME encrypted message.
+--XXX
+Content-Type: application/pgp-encrypted
+
+Version: 1
+
+--XXX
+Content-Type: application/octet-stream; name="encrypted.asc"
+Content-Disposition: inline; filename="encrypted.asc"
+
+-----BEGIN PGP MESSAGE-----
+
+hQGMAyaVzW7FvEGZAQwAm5VS9A4iKHmyqWCJfkfOKdJ3cTcVasYWRyOMyTkxTaQf
+sE62jN2Wserx0MVaZtQwPoMe3I+GsUu5YHWJOR2nysLcgWcs3JbfYcEYhKJieFjT
+IwyE03Rh/7riYeputVVMEx7DL+76tCcwh776d1yx315o/ELBCzTEZXlXbspLqZU9
+l4NWEWN0HNagyAlfeX2gjNDi1fABsvN77DL1pRVP1l1QWbDX3zOK+zwqiWJMsAW2
+KofkzlfxGieH8ZjzHgTHAcAcQN6zs/JTczAWh+9sv/JxC0ZwPmZxkUc92tewYXL4
+suF93RbTHMo97famaDvseEgKSfsO/ugO2GEtGVX4+eBhOeLJsu3vq5V+SaAJDmdK
+Rf1Q/VYdeZj6VDh3ACim18sBPf89U1ecpiuu/Z25FKALqw+4Qgs2nsDhwDA9Hhcp
+TcmJhAP/XOILljqGEssFKhywq36GIiFt6u4NFIjPwMZKK5Utnv6cc3bVZQgpOMrB
+MWmtGXy3rlKf1zaRzYju0ukBJB+AXOaoDiYQO8jzJJdHEQISDv24Adsvnp321UJw
+XOe0PBeNrQUJJkiY9SkfLJBJ0Mulp/ADi2S4YkD951uuvhwJIIDWOyT0tmca42+Y
+LqSrpwz8QHO+Yxy5uqxoCA91IE6HfULj7xmhY8lYdPN4tal1E7EGqECdzDwxdaHC
+QSzbz5IyQq0IiKxddqEpT+wyzZGzV9K40oHXw+kr7Ks8JZl58p9tDMFxahMVE0KE
+UPjQ7JwtwsExUC6EN+VeqoVwmuJr6a0s3cYSLh4NW4J6UplleLeBGsDa1MGXyIWW
+i9Aw7ClsGUt6KhnvJklVDNYQ0JGLiRgKpicGq19eiReszt3AKAYovw/TochFnQSI
+MAovj4BvftherKxp4NZoj38342/iqxhrYOuGRyyzNTIIVh4BbWnEfRLEMfHe8pV9
+CGaaDQ5W3yL2cKz/h2AyrNgZ+t3EMzu2GPSVA6p5Ed/BQ/3eN0pHpyfFxoufxRFR
+xK1fJ/QSg/E8ZlBKbXB1SLONw9XHv25T9y6PJAjuN5UlLGXeA3jYXNMFCk/E5iu8
+sYr3gHGN4wvGUcSgDEjCKE/J9P3hTpZEb1M5iUuqza4loVwzM5MZ8rJqWCIFhLuG
+kze2Zprz5ci6QqWlPQGgXYkDjNIX0UODF8Kl0mCZk/bXBvxsnRcBTZXXMEI0ezGV
+qYeyzUtIWfSTYjfSiJEAnPhEXm9w81Esc5ODe+C4nYdnL2RNwH2HbJbIgXzVmb8g
+ZyaWq7vmqNMhr+ownWTYin6e8ZZuUtKMCn7IlHN2F1SWk3Xrf0gmldMmTQWmXlRt
+fFhXYKOtwMKkdg2x4+Uy1ZfQ6K7jn7uuslMCS61sddDk7CAOWu7lI9g=
+=c9xW
+-----END PGP MESSAGE-----
+
+--XXX--
